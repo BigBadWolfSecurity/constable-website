@@ -148,10 +148,6 @@ const Navigationbar = () => {
                             </li>
                         </ul>
                     </div>
-
-                    <div className="header-search">
-                        <SearchModal />
-                    </div>
                 </div>
             </nav>
         </React.Fragment>
